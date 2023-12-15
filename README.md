@@ -8,7 +8,7 @@ This repository contains the survey responses for our study on NLP for healthcar
 
 We include responses for three cohorts: birthing people (recruited via Prolific), healthcare workers (recruited via Prolific), and workshop participants (opted into a workshop on "maternal health equity").
 
-All participants consented to participation in this research study and to having their responses recorded and shared publicly. Our study was approved by the IRB and the Allen Institute for AI.
+All participants consented to participation in this research study and to having their responses recorded and shared publicly. Our study was approved by the IRB at the Allen Institute for AI.
 
 <br><br>
 
