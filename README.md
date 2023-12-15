@@ -15,9 +15,9 @@ All participants consented to participation in this research study and to having
 ## Data Description
 
 The data files include:
-- `survey_results_bp_PUBLIC.csv` The responses from birthing people.
-- `survey_results_hcw_PUBLIC.csv` The responses from healthcare workers.
-- `survey_results_wp_PUBLIC.csv` The responses from workshop participants.
+- `survey_results_bp_PUBLIC.csv` The responses from 30 birthing people.
+- `survey_results_hcw_PUBLIC.csv` The responses from 30 healthcare workers.
+- `survey_results_wp_PUBLIC.csv` The responses from 39 workshop participants.
 
 Because the workshop participants interacted with one another during a live session and could potentially identify each other's responses, we omit their demographic information from this public repository.
 
