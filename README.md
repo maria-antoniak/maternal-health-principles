@@ -27,7 +27,7 @@ Because the workshop participants interacted with one another during a live sess
 
 For more information, you can read the full paper describing this study. This work is a public preprint and currently under review.
 
-[Designing Guiding Principles for NLP for Healthcare: A Case Study of Maternal Health]()  
+[Designing Guiding Principles for NLP for Healthcare: A Case Study of Maternal Health](https://arxiv.org/abs/2312.11803)  
 Maria Antoniak, Aakanksha Naik, Carla S. Alvarado, Lucy Lu Wang, Irene Y. Chen  
 2023  
 
